@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured"
+    sling:resourceType="newsfeed">
+    <kanpur-news--kanpur-city-news---cities-news---times-of-india
+        jcr:description="BJP MP from Unnao Sakshi Maharaj on Monday attacked Delhi Chief Minister Arvind Kejriwal by saying that his party workers are launching 'Aandolan' against him. He termed the incident to be an unfortunate one and added that he has nothing more to say on this issue."
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Kanpur News, Kanpur City News - Cities News - Times of India"
+        sling:resourceType="newspage"/>
+</jcr:root>

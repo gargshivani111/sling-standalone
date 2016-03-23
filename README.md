@@ -1,0 +1,2 @@
+# sling-newsfeed
+Create a Sling Standalone Application that should perform all the CRUD operation. Implemented a news feed importer which would update regularly using scheduler and would fetch the latest news from the specified URL and would also validate the news by the GUID . All news page have the feature to update the Title and Description and would be updated simultaneously. The application also allows you to add the user defined news .
